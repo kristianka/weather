@@ -8,6 +8,8 @@
 | First release | 24.4.2022 |
 | Full release | 26.4.2022 |
 
+[Click here to visit the site](https://kristianka.github.io/weather/frontend/index.html)
+
 ### Images
 
 <details>
