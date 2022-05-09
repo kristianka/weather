@@ -13,13 +13,20 @@
 <details>
 <summary>Screenshots</summary>
 <br>
-![Image 1 of light page](https://imgur.com/rl3miLC)
-![Image 2 of light page](https://imgur.com/mdQLjwb)
-![Image 1 of temperature page](https://imgur.com/PCem8yx)
-![Image 2 of temperature page](https://imgur.com/HWsjIzT)
-![Image 1 of signal values page](https://imgur.com/wvcpGaa)
-![Image 2 of signal values page](https://imgur.com/LYUjb9F)
-![Image 3 of signal values page](https://imgur.com/mghpAZF)
+
+![Image 1 of light page](https://imgur.com/rl3miLC.jpg)
+
+![Image 2 of light page](https://imgur.com/mdQLjwb.jpg)
+
+![Image 1 of temperature page](https://imgur.com/PCem8yx.jpg)
+
+![Image 2 of temperature page](https://imgur.com/HWsjIzT.jpg)
+
+![Image 1 of signal values page](https://imgur.com/wvcpGaa.jpg)
+
+![Image 2 of signal values page](https://imgur.com/LYUjb9F.jpg)
+
+![Image 3 of signal values page](https://imgur.com/mghpAZF.jpg)
 
 </details>
 
