@@ -71,3 +71,7 @@
 
 * Graph X-axis doesn't update when changing view
 * Missing some features
+
+---
+
+<a href="https://www.flaticon.com/free-icons/weather" title="weather icons">Weather icons created by Freepik - Flaticon</a>
